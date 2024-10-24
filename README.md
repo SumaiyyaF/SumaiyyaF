@@ -1,8 +1,7 @@
 
  ### Hi 👋, I'm Sumaiyya Fareed
 
-
-
+I’m a data analyst and I hold a Master's degree in Data Science from the University of Michigan. With a mix of machine learning, big data, and a dash of humor, I bring a fresh perspective to every project. From the luxury retail industry to automotive innovation, I’ve been busy decoding data mysteries and turning them into actionable insights. Fluent in SQL, Python, and sarcasm, I’m on a mission to make data not just informative, but fun.
 
 ### About me:
 - I enjoy transforming raw data into impactful business decisions through data analytics and visualizations.
