@@ -10,7 +10,7 @@ I’m a data analyst and I hold a Master's degree in Data Science from the Unive
 - Outside of work, I love getting lost in the works of Khaled Hosseini and Elif Shafak , whose storytelling and cultural insights captivate me.
 - Reach me at: [summiya.fareed@gmail.com](mailto:summiya.fareed@gmail.com) or at [sfareed@umich.edu](mailto:sfareed@umich.edu)
 
-- 📝 You can view my detailed **[resume here](SumaiyyaFareed_Resume.pdf)** to learn more about my work experience, projects, and skills.
+- 📝 You can view my detailed **[resume here]([SumaiyyaFareed_Resume.pdf](https://github.com/SumaiyyaF/MyResume/blob/main/SumaiyyaFareed_Resume.pdf))** to learn more about my work experience, projects, and skills.
 
 ---
 
